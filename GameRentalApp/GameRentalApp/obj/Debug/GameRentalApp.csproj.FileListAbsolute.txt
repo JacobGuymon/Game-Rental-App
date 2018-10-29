@@ -1,0 +1,15 @@
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\bin\Debug\GameRentalApp.exe.config
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\bin\Debug\GameRentalApp.exe
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\bin\Debug\GameRentalApp.pdb
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.csprojAssemblyReference.cache
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\MainWindow.g.cs
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\App.g.cs
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp_MarkupCompile.cache
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp_MarkupCompile.lref
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\MainWindow.baml
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.g.resources
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.Properties.Resources.resources
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.csproj.GenerateResource.cache
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.csproj.CoreCompileInputs.cache
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.exe
+C:\Users\LabAdmin\Source\Repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.pdb
